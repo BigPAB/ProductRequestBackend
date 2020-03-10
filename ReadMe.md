@@ -1,7 +1,7 @@
 # Getting Started
 
 #About
-O projeto é composto de 5 serviços que são os seguintes: config-service, register-service, proxy-service, 
+O projeto é composto de 6 serviços que são os seguintes: config-service, register-service, proxy-service, 
 client-service, product-service e request-service.
 Cada um desses modulos é um projeto maven SpringBoot separado. Em modo geral, é um projeto criado
 com java, spring boot, hibernate, jpa conexão banco com mysql
